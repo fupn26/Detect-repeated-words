@@ -1,4 +1,4 @@
-# Detect-repeated-words(it's not perfect because you have to stop it with CTRL+C)
+# Detect-repeated-words
 #include "std_lib_facilities.h"
 int main()
 {
@@ -12,7 +12,7 @@ while(cin>>current){
 	}
 }
 
-# Find the repeated words(the same problem as with the previous one)
+# Find the repeated words
 #include "std_lib_facilities.h"
 int main()
 {
