@@ -12,7 +12,7 @@ while(cin>>current){
 	}
 }
 
-# Find the repeated words(the same problem with the previous one)
+# Find the repeated words(the same problem as with the previous one)
 #include "std_lib_facilities.h"
 int main()
 {
